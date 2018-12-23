@@ -86,14 +86,14 @@
     "check-more-types": "2.24.0",
     "console.table": "0.10.0",
     "cross-spawn": "5.1.0",
-    "debug": "3.1.0",
+    "debug": "3.2.6",
     "lazy-ass": "1.6.0",
     "minimist": "1.2.0",
     "moment": "2.22.2",
     "node-sentry-error-reporter": "1.8.0",
     "now-client": "0.7.0",
     "pkgd": "1.1.2",
-    "ramda": "0.25.0"
+    "ramda": "0.26.1"
   },
   "release": {
     "analyzeCommits": "simple-commit-message",
